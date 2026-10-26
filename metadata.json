@@ -1,0 +1,8 @@
+{
+  "name": "Green Valley Office — Virtual Workspace",
+  "description": "Interactive 2D spatial virtual office and coworking campus inspired by SoWork, featuring proximity video and audio zones, click-to-walk avatars, interactive meeting rooms, collaborative whiteboard, and live floorplan builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
